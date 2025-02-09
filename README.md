@@ -14,18 +14,10 @@ Copy
 Edit
 
 ### 2. Navigate into the Project Folder
-cd Electron_Template/Electron-App
-
-shell
-Copy
-Edit
+cd into Electron-App
 
 ### 3. Install Dependencies
-npm install
-
-shell
-Copy
-Edit
+In the terminal, run an npm install
 
 ### 4. Run the App in Development Mode
 npm run dev
