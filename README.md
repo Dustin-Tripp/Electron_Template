@@ -1,4 +1,4 @@
-# Electron-App-Template
+# Electron-App-Template and DEMO
 
 A template for quickly creating new Electron.js applications with React, TypeScript, and auto-updater support.
 
