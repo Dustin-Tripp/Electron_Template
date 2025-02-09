@@ -9,6 +9,7 @@
   "compilerOptions": {
     "composite": true,
     "module": "es2020",
+    "moduleResolution": "node",
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
