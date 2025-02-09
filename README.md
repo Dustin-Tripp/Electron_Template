@@ -77,10 +77,5 @@ For auto-updating to work, the following files must be included in your GitHub R
 
 ---
 
-## 📜 License
-This project is licensed under **MIT**.
-
----
-
 Just copy and paste this into your `README.md` file. 🚀
 This is completely raw text—no preformatted blocks. You should be able to copy it directly into your README.md file. 🚀 Let me know if you need any changes!
